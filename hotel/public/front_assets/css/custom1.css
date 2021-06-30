@@ -1,0 +1,107 @@
+.entry-subtitle {
+    font-size: 1.8rem;
+    margin-bottom: 17px;
+    margin-top: 12px;
+    color: #3e5063;
+    font-family: Times New Roman;
+line-height: 1.0;
+}
+.widget_listing_content h2 {
+    font-size: 20px;
+    font-family: Playfair Display;
+    letter-spacing: 2px;
+    color: #0e2636;
+    border-bottom: 1px solid #507d92;
+    padding-bottom: 10px;
+
+}
+.hotelname
+{
+
+	color: #e1e8ef;
+    font-size: 25px;
+    font-family: serif;
+    font-weight: 800;
+}
+.key-facts-labels
+{
+
+	color: #f77e1b;
+    font-family: Source Sans Pro;
+    letter-spacing: 1.5px;
+    font-size: 0.9em;
+    text-align: left;
+    display: inline-block;
+}
+
+.key-facts-values {
+    color: #e1e8ef;
+    font-family: Source Sans Pro;
+    letter-spacing: 1.1px;
+    font-size: 0.9em;
+    text-align: left;
+    display: inline;
+    hyphens: none;
+}
+.button:focus { 
+            outline-color: black; 
+        } 
+.room-capacity-values {
+    color: #000000;
+    font-size: 3em;
+    line-height: 1;
+    font-family: Playfair Display;
+}
+.room-capacity-labels {
+    color: #f77e1b;
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    font-size: .8em;
+    text-align: left;
+    display: block;
+}
+.capacity-display-icons {
+    width: 60px;
+    transform: scale(1);
+    transition: 250ms ease transform;
+    vertical-align: middle;
+    display: inline-block;
+}
+.capacity-item-holders {
+    display: inline-block;
+    margin-bottom: .5em;
+}
+.room-capacity-labels-and-values {
+    text-align: left;
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 35px;
+    padding-left: 10px;
+}
+.room-capacity-labels-and-values {
+    text-align: left;
+    vertical-align: middle;
+    display: inline-block;
+    padding-right: 35px;
+    padding-left: 10px;
+}
+.frm_toggle_container label{
+    font-weight: 600 !important;
+    color: #000;
+    font-family: arial, serif;
+}
+.card-title1{
+    color: black!important;
+}
+.head-1{
+    color: #000;
+}
+.head-2{
+    color: #000;
+    font-size: 18px !important;
+}
+.button-add{
+    height:35px!important;
+
+}

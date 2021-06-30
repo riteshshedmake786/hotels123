@@ -1,0 +1,19 @@
+.help-block{
+	color: red !important;
+}
+.dataTables_filter{
+	text-align: right !important;
+}
+#supplierListTable_paginate .pagination{
+	float: right !important;
+}
+#supplierListTable_filter{
+	text-align: right !important;
+}
+.text-right1{
+	margin-right: 670px !important;
+}
+.icon-wrap{
+	margin-left: -66px !important;
+    margin-right: -42px !important;
+}
